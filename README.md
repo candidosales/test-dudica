@@ -12,7 +12,7 @@ cd test-dudica # Entra na sua pasta
 python -m SimpleHTTPServer # Comando para inicializar o servidor HTTP
 ```
 
-Após executar o comando será criado um servidot HTTP na porta `8000`.
+Após executar o comando será criado um servidor HTTP na porta `8000`.
 
 Em seguida acesse http://localhost:8000/index.html
 
