@@ -15,3 +15,7 @@ python -m SimpleHTTPServer # Comando para inicializar o servidor HTTP
 Após executar o comando será criado um servidot HTTP na porta `8000`.
 
 Em seguida acesse http://localhost:8000/index.html
+
+### Resultado
+
+![Resultado](https://i.imgur.com/pilS3ct.png)
